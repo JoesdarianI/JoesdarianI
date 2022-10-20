@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Study In **Bina Nusantara University**
 
-- 🌱 I’m currently learning **React Native & Swift**
+- 🌱 I’m currently learning **PHP & Swift**
 
 - 💬 Ask me about **Mobile Application Development**
 
